@@ -35,7 +35,7 @@
             <scope>test</scope>
         </dependency>
 
-        <! -- added to allow spring boot wo work with Java 11 -->
+        <!-- added to allow spring boot wo work with Java 11 -->
         <dependency>
             <groupId>javax.xml.bind</groupId>
             <artifactId>jaxb-api</artifactId>
